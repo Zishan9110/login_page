@@ -96,5 +96,6 @@ input:hover{
     .login .box i {
         left: 77%;
         top: 50%;
+        display:none;
     }
 }
